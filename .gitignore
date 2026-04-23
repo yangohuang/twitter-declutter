@@ -1,0 +1,14 @@
+# Local state / user data — never commit
+*.log
+*.json
+!package.json
+/tmp/
+.DS_Store
+.env
+.env.local
+
+# Personal following lists / tweet samples
+following_*.json
+tweet_samples/
+unfollow-list-*.txt
+*-following-*.md
