@@ -1,5 +1,5 @@
 ---
-name: x-batch-unfollow
+name: 取关.skill
 description: >
   批量分析 X/Twitter 关注列表并一键取关营销号/割韭菜号。
   两种用法：(1) 全流程 — 拉 following、按营销号话术打分、给出取关清单、生成浏览器 Console 一键脚本；
